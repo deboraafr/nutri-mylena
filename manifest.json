@@ -1,0 +1,29 @@
+{
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "nutri-mylenasantos.netlify",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "nutri-mylenasantos.netlify",
+    "start_url": "/",
+    "theme_color": "#f1a5ca",
+    "icons": [
+      {
+        "src": "./assets/img/appstore.png",
+        "type": "image/jpeg",
+        "sizes": "1024x1024"
+      },
+      {
+        "src": "assets/img/apple-touch-icon.png"
+      }
+    ],
+    "description": "Aplicativo de apresentação profissional, descrição e apresentação de serviços e disponibilização de contato.",
+    "lang": "pt",
+    "categories": [
+      "fitness",
+      "food",
+      "health",
+      "lifestyle"
+    ]
+  }
