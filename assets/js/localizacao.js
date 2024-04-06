@@ -36,7 +36,7 @@ function initMap() {
     handleLocationError(false, infoWindow, map.getCenter());
   }
 
-  fetch("https://santiagoguii.github.io/locais--API/locais.json")
+  fetch("https://deboraafr.github.io/api-map/localizacao.json")
     .then((response) => response.json())
     .then((data) => {
       data.forEach((item) => {
