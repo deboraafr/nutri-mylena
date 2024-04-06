@@ -788,6 +788,13 @@ section {
   background: #fff;
 }
 
+#map{
+  width: 80%;
+  height: 80vh;
+  margin: 0 auto; 
+  border-radius: 15px; 
+  overflow: hidden; 
+}
 .contact .info i {
   font-size: 20px;
   color: #f8a4df;
